@@ -1,0 +1,9 @@
+C:\Users\win10\source\repos\MegameAPI\bin\Debug\MegameAPI.dll
+C:\Users\win10\source\repos\MegameAPI\bin\Debug\MegameAPI.pdb
+C:\Users\win10\source\repos\MegameAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\win10\source\repos\MegameAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\win10\source\repos\MegameAPI\obj\Debug\MegameAPI.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\MegameAPI\obj\Debug\MegameAPI.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\MegameAPI\obj\Debug\MegameAPI.csproj.CopyComplete
+C:\Users\win10\source\repos\MegameAPI\obj\Debug\MegameAPI.dll
+C:\Users\win10\source\repos\MegameAPI\obj\Debug\MegameAPI.pdb
